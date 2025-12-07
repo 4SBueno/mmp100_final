@@ -1,0 +1,36 @@
+body{
+    background:#c6e5ff;
+}
+
+
+h1{
+    font-family: "Arial";
+    font-size:50px;
+    color: #25348f;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #4051be;
+}
+
+a{
+    margin:20px;
+    background:#25348f;
+    color:#fff;
+    text-decoration:none;
+}
+
+p{
+    font-size: 20px;
+}
+
+#lastparagraph {
+    font-style: italic;
+}
+
+#end {
+    font-weight: bold;
+    font-size: 25px;
+    font-family: sans-serif;
+}
